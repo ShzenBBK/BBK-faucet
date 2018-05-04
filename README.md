@@ -11,4 +11,4 @@ The frontend of PHP+MySQL based cryptocurrency faucet.
 
 © 2016 [Seredat](https://github.com/seredat/Karbowanec-Faucet "Karbo fork")
 
-© 2018 (Looongcat](https://github.com/Looongcat/karbo-faucet "OMG it's me!")
+© 2018 [Looongcat](https://github.com/Looongcat/karbo-faucet "OMG it's me!")
