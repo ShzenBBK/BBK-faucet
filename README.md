@@ -1,4 +1,4 @@
-# Karbo (KRB) faucet frontend
+# BitBlocks (BBK) faucet
 
 The frontend of PHP+MySQL based cryptocurrency faucet.
 
@@ -13,4 +13,4 @@ The frontend of PHP+MySQL based cryptocurrency faucet.
 
 © 2018 [Looongcat](https://github.com/Looongcat/karbo-faucet)
 
-© 2018 [SzhenBBK](https://github.com/ShzenBBK/BBK-faucet)
+© 2019 [SzhenBBK](https://github.com/ShzenBBK/BBK-faucet)
