@@ -6,6 +6,9 @@ The frontend of PHP+MySQL based cryptocurrency faucet.
 1. config.php - add all necessary options (such as wallet address, passwords, captcha keys...)
 2. Run and have fun!
 
+## Live faucet
+https://faucet.bitblocksproject.com/
+
 ## Credits
 © 2015 [Ratnet](https://github.com/Ratnet/Bytecoin-Faucet "Original repository")
 
