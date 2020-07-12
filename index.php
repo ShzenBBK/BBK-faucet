@@ -73,7 +73,7 @@ require_once 'config.php';
 
 							<div class="alert alert-success radius">
 							You won <?php echo $_GET['amount']; ?> BBK.<br/><br/>
-							<a target="_blank" href="https://bbk.overemo.com/transaction/<?php echo $_GET['txid']; ?>">Check on explorer</a>
+							<a target="_blank" href="http://bbk.ccore.online/transaction/<?php echo $_GET['txid']; ?>">Check on explorer</a>
 							</div>
 
 				<?php } else
@@ -171,7 +171,7 @@ require_once 'config.php';
 
 					echo "<tr><th>Txid</th><th>";
 
-					echo "<a href='https://bbk.overemo.com/transaction/$values'target='_blank'>$values</a>";
+					echo "<a href='http://bbk.ccore.online/transaction/$values'target='_blank'>$values</a>";
 
 					echo "</th></td></tr>";
 					}
